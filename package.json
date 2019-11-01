@@ -1,0 +1,17 @@
+{
+  "name": "ndm-socket",
+  "version": "1.0.0",
+  "description": "Web Socket for NDM",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "bennysway",
+  "license": "ISC"
+}
